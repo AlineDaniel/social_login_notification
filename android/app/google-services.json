@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "376045568381",
+    "project_id": "socialloginnotification-59fd8",
+    "storage_bucket": "socialloginnotification-59fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376045568381:android:ece6ad954706288c380c14",
+        "android_client_info": {
+          "package_name": "com.example.social_login_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376045568381-vmbfapt6783tc105ltnh6japg37udqm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_login_notification",
+            "certificate_hash": "5d26d9422150935355bb8614fc5524e9685be336"
+          }
+        },
+        {
+          "client_id": "376045568381-b38cnlm7ma2skfmifevmnvie0ral9uft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3gpQm49Rql24zRrr5CvOjP_Z4m3Vts40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376045568381-b38cnlm7ma2skfmifevmnvie0ral9uft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
